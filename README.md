@@ -2,6 +2,22 @@
 
 *Productivity Engineering Enginner at <a href="https://cybozu.co.jp/" target="_blank" rel="noopener">Cybozu inc.</a>*
 
+```go
+korosuke613{
+  pronouns: []string{
+    "futa", "kiba-chan"
+  },
+  code: []string{
+    "Python", "Go", "C++", "Javascript",
+  },
+  technology: []string{
+    "CI/CD", "Container", "Infrastructure as Code", "Testing",
+  },
+  challenge: "Inclease engineering productivity at the world",
+}
+```
+
+
 <a href="https://github.com/korosuke613" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/-Homepage-134343?style=flat&amp">
 </a>
@@ -21,18 +37,5 @@
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&amp;logo=instagram&amp;logoColor=white">
 </a>
 
-<small><img align='left' width="45%" src="https://github-readme-stats.vercel.app/api?username=korosuke613&show_icons=true&theme=cobalt"></small>
+<img src="https://github-readme-stats.vercel.app/api?username=korosuke613&show_icons=true&theme=cobalt">
 
-```go
-korosuke613{
-  pronouns: []string{"futa", "kiba-chan"},
-  code: []string{
-	  "Python", "Go", "C++", "Javascript",
-  },
-  technology: []string{
-	  "CI/CD", "Container",
-	  "Infrastructure as Code", "Testing",
-  },
-  challenge: "Inclease engineering productivity at the world",
-}
-```
