@@ -21,4 +21,18 @@
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&amp;logo=instagram&amp;logoColor=white">
 </a>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=korosuke613&show_icons=true&theme=cobalt)](https://github.com/korosuke613)
+<small><img align='left' width="45%" src="https://github-readme-stats.vercel.app/api?username=korosuke613&show_icons=true&theme=cobalt"></small>
+
+```go
+korosuke613{
+  pronouns: []string{"futa", "kiba-chan"},
+  code: []string{
+	  "Python", "Go", "C++", "Javascript",
+  },
+  technology: []string{
+	  "CI/CD", "Container",
+	  "Infrastructure as Code", "Testing",
+  },
+  challenge: "Inclease engineering productivity at the world",
+}
+```
