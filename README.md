@@ -22,10 +22,12 @@
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&amp;logo=instagram&amp;logoColor=white">
 </a>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korosuke613&theme=cobalt">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=korosuke613&show_icons=true&theme=cobalt">
 
-<img src="https://github-readme-stats.vercel.app/api?username=korosuke613&show_icons=true&theme=cobalt">
-
-
+<hr>
+<div>
+  
 ```go
 korosuke613{
     pronouns:   []string{"futa", "kiba-chan"},
@@ -34,3 +36,5 @@ korosuke613{
     challenge:  "Inclease engineering productivity at the world",
 }
 ```
+
+</div>
