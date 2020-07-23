@@ -25,11 +25,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korosuke613&theme=cobalt">
 
 <div align="left">
-<img width="500px" src="https://github-readme-stats.vercel.app/api?username=korosuke613&show_icons=true&theme=cobalt">
+<img width="534px" src="https://github-readme-stats.vercel.app/api?username=korosuke613&show_icons=true&theme=cobalt">
 
 <p >
 
-<div style="width:500px;font-size: 0.8em;">
+<div style="width:534px;font-size: 0.8em;">
 
 ```go
 korosuke613{
