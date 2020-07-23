@@ -23,18 +23,26 @@
 </a>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korosuke613&theme=cobalt">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=korosuke613&show_icons=true&theme=cobalt">
 
-<hr>
-<div>
-  
+<div align="left">
+<img width="500px" src="https://github-readme-stats.vercel.app/api?username=korosuke613&show_icons=true&theme=cobalt">
+
+<p >
+
+<div style="width:500px;font-size: 0.8em;">
+
 ```go
 korosuke613{
-    pronouns:   []string{"futa", "kiba-chan"},
-    code:       []string{"Python", "Go", "C++", "Javascript"},
-    technology: []string{"CI/CD", "Container", "Infrastructure as Code", "Testing"},
-    challenge:  "Inclease engineering productivity at the world",
+  pronouns:   []string{"futa", "kiba-chan"},
+  code:       []string{"Python", "Go", "C++", "Javascript"},
+  technology: []string{"CI/CD", "Container", "Infrastructure as Code", "Testing"},
+  challenge:  "Inclease engineering productivity at the world",
 }
 ```
 
 </div>
+
+</p>
+</div>
+
+
