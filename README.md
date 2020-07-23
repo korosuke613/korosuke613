@@ -3,7 +3,7 @@
 *Productivity Engineering Enginner at <a href="https://cybozu.co.jp/" target="_blank" rel="noopener">Cybozu inc.</a>*
 
 
-<a href="https://github.com/korosuke613" target="_blank" rel="noopener">
+<a href="https://korosuke613.github.io" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/-Homepage-134343?style=flat&amp">
 </a>
 <a href="https://korosuke613.hatenablog.com" target="_blank" rel="noopener">
@@ -22,10 +22,14 @@
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&amp;logo=instagram&amp;logoColor=white">
 </a>
 
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korosuke613&theme=cobalt">
+</a>
 
 <div align="left">
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener">
 <img width="534px" src="https://github-readme-stats.vercel.app/api?username=korosuke613&show_icons=true&theme=cobalt">
+</a>
 
 <p >
 
