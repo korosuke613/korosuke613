@@ -1,0 +1,25 @@
+name: Latest blog post workflow
+on: 
+    schedule:
+        - cron: '0 * * * *'
+jobs: 
+    update-readme-with-hatenablog: 
+        name: Update this repo's README with latest hatenablog posts
+        runs-on: ubuntu-latest
+        steps: 
+            - uses: actions/checkout@v2
+            - uses: gautamkrishnar/blog-post-workflow@master
+              with: 
+                max_post_count: "4"
+                feed_list: "https://korosuke613.hatenablog.com/feed"
+                comment_tag_name: HATENA-POST-LIST
+    update-readme-with-zenn: 
+        name: Update this repo's README with latest zenn posts
+        runs-on: ubuntu-latest
+        steps: 
+            - uses: actions/checkout@v2
+            - uses: gautamkrishnar/blog-post-workflow@master
+              with: 
+                max_post_count: "4"
+                feed_list: "https://zenn.dev/korosuke613/feed"
+                comment_tag_name: ZENN-POST-LIST
