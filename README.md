@@ -37,6 +37,10 @@
 <h3 align="center">Blogs posts</h3>
 
 <!-- HATENA-POST-LIST:START -->
+- [Trello の内容を kintone アプリに同期するシステムを作ったよ](https://korosuke613.hatenablog.com/entry/2020/12/10/trekin-about?utm_source=feed)
+- [モブプロで役立つ？？git rebaseでsquashする時にそれまでの著者をCo-authored-byに自動で追加するgit hookを作りました🎉](https://korosuke613.hatenablog.com/entry/2020/09/11/auto-insert-co-author?utm_source=feed)
+- [サイボウズの製品ってそもそもどんなもの？　〜エンジニア職の学び方例〜](https://korosuke613.hatenablog.com/entry/2020/02/13/cybozu-production-learn?utm_source=feed)
+- [VDM++における合成型(Compound Types) | 集合(Set)と配列(Sequence)](https://korosuke613.hatenablog.com/entry/2020/02/12/vdmpp-compound-set-seq?utm_source=feed)
 <!-- HATENA-POST-LIST:END -->
 
 <!-- HATENA-POST-LIST:START -->
