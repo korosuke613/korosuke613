@@ -43,8 +43,8 @@
 - [VDM++における合成型(Compound Types) | 集合(Set)と配列(Sequence)](https://korosuke613.hatenablog.com/entry/2020/02/12/vdmpp-compound-set-seq?utm_source=feed)
 <!-- HATENA-POST-LIST:END -->
 
-<!-- HATENA-POST-LIST:START -->
-<!-- HATENA-POST-LIST:END -->
+<!-- ZENN-POST-LIST:START -->
+<!-- ZENN-POST-LIST:END -->
 
 
 <h3 align="center">Languages and Tools</h3>
