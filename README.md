@@ -1,28 +1,15 @@
-<h2>KONNITIWA! I'm Futa!</h2>
+<h1 align="center">Konnichiwa 👋, I'm Futa Hirakoba</h1>
+<h3 align="center">Productivity Engineering Enginner at Cybozu inc.</h3>
 
-*Productivity Engineering Enginner at <a href="https://cybozu.co.jp/" target="_blank" rel="noopener">Cybozu inc.</a>*
+- 🔭 I’m currently working on [Cybozu,Inc.](https://cybozu.co.jp/)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/shitimi_613" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shitimi_613" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/futa-hirakoba-6720a914b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="futa-hirakoba-6720a914b" height="30" width="40" /></a>
+<a href="https://fb.com/futa.hirakoba.5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="futa.hirakoba.5" height="30" width="40" /></a>
+<a href="https://instagram.com/kwlv613" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kwlv613" height="30" width="40" /></a>
+</p>
 
-<a href="https://korosuke613.github.io" target="_blank" rel="noopener">
-  <img src="https://img.shields.io/badge/-Homepage-134343?style=flat&amp">
-</a>
-<a href="https://korosuke613.hatenablog.com" target="_blank" rel="noopener">
-  <img src="https://img.shields.io/badge/-Blog-9F55FF?style=flat&amp;logo=blogger&amp;logoColor=white">
-</a>
-<a href="https://zenn.dev/korosuke613" target="_blank" rel="noopener">
-  <img src="https://img.shields.io/badge/-Zenn-3EA8FF?style=flat&logo=zenn&logoColor=white">
-</a>
-<a href="http://qiita.com/Shitimi_613" target="_blank" rel="noopener">
-  <img src="https://img.shields.io/badge/-Qiita-55C500?style=flat&amp;logo=qiita&amp;logoColor=white">
-</a>
-<a href="https://twitter.com/Shitimi_613" target="_blank" rel="noopener">
-  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&amp;logo=twitter&amp;logoColor=white">
-</a>
-<a href="https://www.facebook.com/futa.hirakoba.5" target="_blank" rel="noopener">
-  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&amp;logo=facebook&amp;logoColor=white">
-</a>
-<a href="https://www.instagram.com/kwlv613/" target="_blank" rel="noopener">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&amp;logo=instagram&amp;logoColor=white">
-</a>
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
