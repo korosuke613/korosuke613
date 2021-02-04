@@ -9,6 +9,9 @@
 <a href="https://korosuke613.hatenablog.com" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/-Blog-9F55FF?style=flat&amp;logo=blogger&amp;logoColor=white">
 </a>
+<a href="https://zenn.dev/korosuke613" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/-Zenn-3EA8FF?style=flat&logo=zenn&logoColor=white">
+</a>
 <a href="http://qiita.com/Shitimi_613" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/-Qiita-55C500?style=flat&amp;logo=qiita&amp;logoColor=white">
 </a>
@@ -21,32 +24,5 @@
 <a href="https://www.instagram.com/kwlv613/" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&amp;logo=instagram&amp;logoColor=white">
 </a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korosuke613&theme=cobalt">
-</a>
-
-<div align="left">
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener">
-<img width="534px" src="https://github-readme-stats.vercel.app/api?username=korosuke613&show_icons=true&theme=cobalt">
-</a>
-
-<p >
-
-<div style="width:534px;font-size: 0.8em;">
-
-```go
-korosuke613{
-  pronouns:   []string{"futa", "kiba-chan"},
-  code:       []string{"Python", "Go", "C++", "Javascript"},
-  technology: []string{"CI/CD", "Container", "Infrastructure as Code", "Testing"},
-  challenge:  "Inclease engineering productivity at the world",
-}
-```
-
-</div>
-
-</p>
-</div>
 
 
