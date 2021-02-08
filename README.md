@@ -39,7 +39,7 @@
 <h4>Hatena Blog</h4>
 
 <!-- HATENA-POST-LIST:START -->
-- [npm pack時にsrc下の__tests__を無視したい](https://korosuke613.hatenablog.com/entry/2021/02/08/npm_pack_ignore_tests?utm_source=feed)
+- [npm pack時にsrc下の__tests__を無視したい（2021/02/08更新）](https://korosuke613.hatenablog.com/entry/2021/02/08/npm_pack_ignore_tests?utm_source=feed)
 - [Trello の内容を kintone アプリに同期するシステムを作ったよ](https://korosuke613.hatenablog.com/entry/2020/12/10/trekin-about?utm_source=feed)
 - [モブプロで役立つ？？git rebaseでsquashする時にそれまでの著者をCo-authored-byに自動で追加するgit hookを作りました🎉](https://korosuke613.hatenablog.com/entry/2020/09/11/auto-insert-co-author?utm_source=feed)
 - [サイボウズの製品ってそもそもどんなもの？　〜エンジニア職の学び方例〜](https://korosuke613.hatenablog.com/entry/2020/02/13/cybozu-production-learn?utm_source=feed)
