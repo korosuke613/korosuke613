@@ -48,10 +48,10 @@
 <h4>Zenn</h4>
 
 <!-- ZENN-POST-LIST:START -->
+- [Productivity Weekly (2021-3-24号)](https://zenn.dev/korosuke613/articles/productivity-weekly-20210324)
 - [Productivity Weekly (2021-03-17号)](https://zenn.dev/korosuke613/articles/productivity-weekly-20210317)
 - [Productivity Weekly (2021-03-10号)](https://zenn.dev/korosuke613/articles/productivity-weekly-20210310)
 - [Productivity Weekly (2021-03-03号)](https://zenn.dev/korosuke613/articles/productivity-weekly-20210303)
-- [published: trueを自動化することで Zenn への記事投稿フローを改善した話](https://zenn.dev/korosuke613/articles/zenn-metadata-updater)
 <!-- ZENN-POST-LIST:END -->
 
 
