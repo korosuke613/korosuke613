@@ -48,10 +48,10 @@
 <h4>Zenn</h4>
 
 <!-- ZENN-POST-LIST:START -->
-- [Productivity Weekly (2021-4-14号)](https://zenn.dev/korosuke613/articles/productivity-weekly-20210414)
+- [Productivity Weekly (2021-04-21号)](https://zenn.dev/korosuke613/articles/productivity-weekly-20210421)
+- [Productivity Weekly (2021-04-14号)](https://zenn.dev/korosuke613/articles/productivity-weekly-20210414)
 - [Productivity Weekly (2021-04-08号)](https://zenn.dev/korosuke613/articles/productivity-weekly-20210408)
 - [Productivity Weekly (2021-03-31号)](https://zenn.dev/korosuke613/articles/productivity-weekly-20210331)
-- [Productivity Weekly (2021-3-24号)](https://zenn.dev/korosuke613/articles/productivity-weekly-20210324)
 <!-- ZENN-POST-LIST:END -->
 
 
