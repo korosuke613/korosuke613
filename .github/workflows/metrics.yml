@@ -14,16 +14,19 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
           user: korosuke613
           template: classic
-          base: activity, community, metadata
-          config_animated: yes
+          base: metadata
           config_timezone: Asia/Tokyo
           plugin_languages: yes
           plugin_languages_colors: github
-          plugin_languages_ignored: TeX,CSS,HTML,CMake
+          plugin_languages_details: percentage, bytes-size
+          plugin_languages_ignored: TeX,CSS,HTML,CMake,JavaScript, Makefile
+          plugin_languages_limit: 8
+          plugin_languages_recent.days: 14
+          plugin_languages_recent.load: 300
+          plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
+          plugin_lines: yes
