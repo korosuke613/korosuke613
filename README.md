@@ -86,7 +86,7 @@
 
 <div align="center">
   
-![Metrics](https://metrics.lecoq.io/korosuke613?template=classic&base.header=0&base.repositories=0&languages=1&languages.ignored=TeX%2CCSS%2CHTML%2CCMake&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FTokyo&config.animated=true)
+<!-- ![Metrics](https://metrics.lecoq.io/korosuke613?template=classic&base.header=0&base.repositories=0&languages=1&languages.ignored=TeX%2CCSS%2CHTML%2CCMake&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FTokyo&config.animated=true) -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=korosuke613&theme=dark" alt="korosuke613" /></p>
 
