@@ -86,11 +86,10 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korosuke613&layout=compact&hide=TeX,JavaScript,HTML)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korosuke613&layout=compact&hide=TeX,JavaScript,HTML&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)  
 
 <!-- ![Metrics](https://metrics.lecoq.io/korosuke613?template=classic&base.header=0&base.repositories=0&languages=1&languages.ignored=TeX%2CCSS%2CHTML%2CCMake&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FTokyo&config.animated=true) -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=korosuke613&theme=dark" alt="korosuke613" /></p>
-
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=korosuke613&theme=solarized-dark&fire=AD8A2D&sideNums=AD8A2D" alt="korosuke613" /></p>
 
 </div>
