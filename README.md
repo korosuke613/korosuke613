@@ -95,4 +95,16 @@ using [korosuke613/octlango](https://github.com/korosuke613/octlango)
 
 <!-- MOST_USED_LANGUAGES:START -->
 
+|language|percentage(%)|size(byte)|
+|---|---|---|
+|TypeScript|48.53|545992|
+|Vue|9.16|103000|
+|HCL|8.91|100249|
+|JavaScript|8.35|93888|
+|Go|7.35|82702|
+|HTML|7.19|80865|
+|Shell|3.97|44703|
+|CSS|2.30|25874|
+|Dockerfile|1.96|22067|
+|Java|0.98|11006|
 <!-- MOST_USED_LANGUAGES:END -->
