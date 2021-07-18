@@ -1,7 +1,6 @@
-<h1 align="center">Konnichiwa 👋, I'm Futa Hirakoba</h1>
-<h3 align="center">Productivity Engineering Enginner at Cybozu inc.</h3>
+<h1>Konnichiwa 👋, I'm Futa Hirakoba</h1>
+<h3>Productivity Engineering Enginner at Cybozu inc.</h3>
 
-<div align="center">
 <a href="https://korosuke613.github.io" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/-Homepage-134343?style=flat&amp">
 </a>
@@ -23,7 +22,6 @@
 <a href="https://www.instagram.com/kwlv613/" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&amp;logo=instagram&amp;logoColor=white">
 </a><img src="https://komarev.com/ghpvc/?username=korosuke613&label=Profile%20views&color=0e75b6&style=flat" alt="korosuke613" /> </p>
-</div>
 
 
 
@@ -34,7 +32,7 @@
 - 📄 Know about my experiences [Korosuke613@miyazaki](https://korosuke613.github.io/)
 - ⚡ I'm called Kiba-chan.
 
-<h3 align="center">Blogs posts</h3>
+<h3>Blogs posts</h3>
 
 <h4>Hatena Blog</h4>
 
@@ -48,15 +46,14 @@
 <h4>Zenn</h4>
 
 <!-- ZENN-POST-LIST:START -->
+- [Productivity Weekly (2021-07-15号)](https://zenn.dev/korosuke613/articles/productivity-weekly-20210715)
 - [Productivity Weekly (2021-07-07号)](https://zenn.dev/korosuke613/articles/productivity-weekly-20210707)
 - [Productivity Weekly (2021-06-30号)](https://zenn.dev/korosuke613/articles/productivity-weekly-20210630)
 - [Productivity Weekly (2021-06-23号)](https://zenn.dev/korosuke613/articles/productivity-weekly-20210623)
-- [Productivity Weekly (2021-06-16号)](https://zenn.dev/korosuke613/articles/productivity-weekly-20210616)
 <!-- ZENN-POST-LIST:END -->
 
 
-<h3 align="center">Languages and Tools</h3>
-<div align="center">
+<h3>Languages and Tools</h3>
 
 ![ CPP](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&style=flat&logo=c%2B%2B)
 ![ Go](https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&style=flat&logo=go&logoColor=white)
@@ -82,14 +79,20 @@
 ![ CircleCI](https://img.shields.io/static/v1?label=&message=CircleCI&color=343434&style=flat&logo=circleci) 
 ![ Travis CI](https://img.shields.io/static/v1?label=&message=Travis%20CI&color=3EAAAF&style=flat&logo=travis-ci&logoColor=white) 
 ![ Jenkins](https://img.shields.io/static/v1?label=&message=Jenkins&color=D24939&style=flat&logo=jenkins&logoColor=white) 
-</div>
 
-<div align="center">
+<!--
+<div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korosuke613&count_private=true&langs_count=10&layout=compact&hide=TeX,JavaScript,HTML,CSS,CMake,C%23,C,Makefile&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)  
 
-<!-- ![Metrics](https://metrics.lecoq.io/korosuke613?template=classic&base.header=0&base.repositories=0&languages=1&languages.ignored=TeX%2CCSS%2CHTML%2CCMake&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FTokyo&config.animated=true) -->
-
-<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=korosuke613&theme=solarized-dark&fire=AD8A2D&sideNums=AD8A2D" alt="korosuke613" /></p>
+<p><img src="http://github-readme-streak-stats.herokuapp.com?user=korosuke613&theme=solarized-dark&fire=AD8A2D&sideNums=AD8A2D" alt="korosuke613" /></p>
 
 </div>
+-->
+
+<h4>Most used languages by top 10</h4>
+using [korosuke613/octlango](https://github.com/korosuke613/octlango)
+
+<!-- MOST_USED_LANGUAGES:START -->
+
+<!-- MOST_USED_LANGUAGES:END -->
