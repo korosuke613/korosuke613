@@ -90,8 +90,8 @@
 </div>
 -->
 
-<h4>Most used languages by top 10</h4>
-using [korosuke613/octlango](https://github.com/korosuke613/octlango)
+<h4>Top 10 most used languages in the past year</h4>
+using <a href="https://github.com/korosuke613/octlango" target="_blank" rel="noopener">korosuke613/octlango</a>
 
 <!-- MOST_USED_LANGUAGES:START -->
 
