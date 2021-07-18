@@ -1,0 +1,65 @@
+name: Latest blog post workflow
+on:
+  schedule:
+      - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-blog-post:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        name: "Hatena blog"
+        with:
+          max_post_count: "4"
+          feed_list: "https://korosuke613.hatenablog.com/feed"
+          comment_tag_name: HATENA-POST-LIST
+      - uses: gautamkrishnar/blog-post-workflow@master
+        name: "Zenn"
+        with:
+          max_post_count: "4"
+          feed_list: "https://zenn.dev/korosuke613/feed"
+          comment_tag_name: ZENN-POST-LIST
+
+  update-most-used-languages:
+    name: Update most used languages for me
+    runs-on: ubuntu-latest
+    needs: [ update-blog-post ]
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-go@v2
+        with:
+          go-version: '1.16'
+      - uses: actions/cache@v2
+        with:
+          path: |
+            ~/.cache/go-build
+            ~/go/pkg/mod
+          key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}
+          restore-keys: |
+            ${{ runner.os }}-go-
+      - name: install octlango
+        run: |
+          go install github.com/korosuke613/octlango@latest
+          octlango -v
+      - name: replace table
+        env:
+          OCTLANGO_GH_TOKEN: ${{ secrets.OCTLANGO_GH_TOKEN }}
+        run: |
+          octlango -u korosuke613 -f markdown | head -12 > replace.txt
+          cat replace.txt
+
+          sed -i -z -e "s/\(<\!-- MOST_USED_LANGUAGES:START -->\)[\w\W\n]*\(<\!-- MOST_USED_LANGUAGES:END -->\)/\1\n\n$(sed -z 's/\n/\\n/g' replace.txt)\2/" README.md
+      - name: commit changes
+        run: |
+          [[ -n $(git status -s) ]] || exit 0
+          export NOW_DATE_TIME=$(date '+%Y-%m-%dT%H:%M:%S%z')
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          git add README.md
+          git commit -m "Updated most used languages ($NOW_DATE_TIME)"
+          git pull
+          git push origin main
