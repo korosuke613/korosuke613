@@ -24,14 +24,6 @@
 </a><img src="https://komarev.com/ghpvc/?username=korosuke613&label=Profile%20views&color=0e75b6&style=flat" alt="korosuke613" /> </p>
 
 
-
-- 🔭 I’m currently working on [Cybozu,Inc.](https://cybozu.co.jp/)
-- 🌱 I’m currently learning Terraform, AWS, kintone
-- 📝 I regularly write articles in [cangoxina](https://korosuke613.hatenablog.com/)
-- 👨‍💻 I regularly write articles on [Productivity Weekly](https://zenn.dev/korosuke613).
-- 📄 Know about my experiences [Korosuke613@miyazaki](https://korosuke613.github.io/)
-- ⚡ I'm called Kiba-chan.
-
 <h3>Blogs posts</h3>
 
 <h4>Hatena Blog</h4>
