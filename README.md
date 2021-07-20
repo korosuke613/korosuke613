@@ -67,6 +67,7 @@
 ![ GCP](https://img.shields.io/static/v1?label=&message=GCP&color=4285F4&style=flat&logo=google-cloud&logoColor=white) 
 ![ Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=FFCA28&style=flat&logo=firebase&logoColor=black) 
 ![ Heroku](https://img.shields.io/static/v1?label=&message=Heroku&color=430098&style=flat&logo=heroku&logoColor=white) 
+![ GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=181717&style=flat&logo=github&logoColor=white)
 ![ GitHub Actions](https://img.shields.io/static/v1?label=&message=GitHub%20Actions&color=2088FF&style=flat&logo=github%20actions&logoColor=white) 
 ![ CircleCI](https://img.shields.io/static/v1?label=&message=CircleCI&color=343434&style=flat&logo=circleci) 
 ![ Travis CI](https://img.shields.io/static/v1?label=&message=Travis%20CI&color=3EAAAF&style=flat&logo=travis-ci&logoColor=white) 
