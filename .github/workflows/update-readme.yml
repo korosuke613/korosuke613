@@ -54,7 +54,7 @@ jobs:
           sed -i -z -e "s/\(<\!-- MOST_USED_LANGUAGES:START -->\)[\w\W\n]*\(<\!-- MOST_USED_LANGUAGES:END -->\)/\1\n\n$(sed -z 's/\n/\\n/g' replace.txt)\2/" README.md
       - name: commit changes
         run: |
-          [[ -n $(git status -s) ]] || exit 0
+          [[ -z $(git status -s) ]] && exit 0; true
           export NOW_DATE_TIME=$(date '+%Y-%m-%dT%H:%M:%S%z')
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
