@@ -1,0 +1,22 @@
+name: CI
+on:
+  pull_request:
+    paths:
+      - "**/*.ts"
+  push:
+    paths:
+      - "**/*.ts"
+
+jobs:
+  check-ts:
+    name: Check Lint and Format for Deno
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+      - name: lint
+        run: deno lint
+      - name: format
+        run: deno fmt --check *.ts
