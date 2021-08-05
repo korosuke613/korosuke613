@@ -89,14 +89,14 @@ using <a href="https://github.com/korosuke613/octlango" target="_blank" rel="noo
 <!-- MOST_USED_LANGUAGES:START -->
 |language|percentage(%)|size(byte)|
 |---|---|---|
-|TypeScript|40.47|565945|
-|Swift|18.52|259007|
-|HCL|7.45|104134|
-|JavaScript|6.66|93181|
-|Vue|6.35|88785|
-|Go|5.91|82702|
-|HTML|5.78|80865|
-|Shell|3.29|46037|
-|CSS|1.85|25874|
-|Dockerfile|1.58|22067|
+|TypeScript|41.64|565945|
+|Swift|19.06|259007|
+|JavaScript|7.05|95854|
+|Vue|6.53|88785|
+|Go|6.09|82702|
+|HTML|5.95|80865|
+|HCL|5.67|77040|
+|Shell|2.25|30544|
+|CSS|1.90|25874|
+|Dockerfile|1.62|22067|
 <!-- MOST_USED_LANGUAGES:END -->
