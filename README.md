@@ -96,7 +96,7 @@ using <a href="https://github.com/korosuke613/octlango" target="_blank" rel="noo
 |Go|6.01|82702|
 |HTML|5.87|80865|
 |HCL|5.84|80362|
-|Shell|2.23|30650|
+|Shell|2.23|30720|
 |CSS|1.88|25874|
 |Dockerfile|1.62|22327|
 <!-- MOST_USED_LANGUAGES:END -->
