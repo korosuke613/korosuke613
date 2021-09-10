@@ -90,7 +90,7 @@ using <a href="https://github.com/korosuke613/octlango" target="_blank" rel="noo
 |language|percentage(%)|size(byte)|
 |---|---|---|
 |TeX|34.71|842834|
-|TypeScript|23.83|578790|
+|TypeScript|23.83|578845|
 |Swift|11.93|289716|
 |Java|6.62|160751|
 |JavaScript|3.89|94492|
