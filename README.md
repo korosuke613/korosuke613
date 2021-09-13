@@ -90,13 +90,13 @@ using <a href="https://github.com/korosuke613/octlango" target="_blank" rel="noo
 |language|percentage(%)|size(byte)|
 |---|---|---|
 |TeX|34.49|842834|
-|TypeScript|24.19|591038|
-|Swift|11.86|289716|
+|TypeScript|24.18|591038|
+|Swift|11.85|289716|
 |Java|6.58|160751|
 |JavaScript|3.87|94492|
 |Vue|3.71|90776|
 |HCL|3.66|89519|
 |Go|3.38|82702|
 |HTML|3.33|81450|
-|Shell|1.67|40734|
+|Shell|1.67|40803|
 <!-- MOST_USED_LANGUAGES:END -->
