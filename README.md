@@ -89,9 +89,9 @@ using <a href="https://github.com/korosuke613/octlango" target="_blank" rel="noo
 <!-- MOST_USED_LANGUAGES:START -->
 |language|percentage(%)|size(byte)|
 |---|---|---|
-|TeX|31.21|842834|
-|TypeScript|22.17|598661|
-|Swift|10.74|289907|
+|TeX|31.20|842834|
+|TypeScript|22.16|598661|
+|Swift|10.73|289907|
 |Lua|7.12|192234|
 |Java|5.95|160751|
 |HCL|4.82|130111|
