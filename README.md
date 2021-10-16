@@ -1,5 +1,7 @@
 <h1>Konnichiwa 👋, I'm Futa Hirakoba</h1>
-<h3>Productivity Engineering Enginner at Cybozu inc.</h3>
+<h3>Engineering Productivity in Cybozu inc.</h3>
+
+CI/CD, IaC, Public Cloud, Testions...👷🏽
 
 <a href="https://korosuke613.github.io" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/-Homepage-134343?style=flat&amp">
