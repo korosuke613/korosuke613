@@ -23,52 +23,52 @@ jobs:
           feed_list: "https://zenn.dev/korosuke613/feed"
           comment_tag_name: ZENN-POST-LIST
 
-  update-most-used-languages:
-    name: Update most used languages for me
-    runs-on: ubuntu-latest
-    needs: [ update-blog-post ]
-    steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-go@v2
-        with:
-          go-version: '1.16'
-      - uses: actions/cache@v2
-        with:
-          path: |
-            ~/.cache/go-build
-            ~/go/pkg/mod
-          key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}
-          restore-keys: |
-            ${{ runner.os }}-go-
+  # update-most-used-languages:
+  #   name: Update most used languages for me
+  #   runs-on: ubuntu-latest
+  #   needs: [ update-blog-post ]
+  #   steps:
+  #     - uses: actions/checkout@v2
+  #     - uses: actions/setup-go@v2
+  #       with:
+  #         go-version: '1.16'
+  #     - uses: actions/cache@v2
+  #       with:
+  #         path: |
+  #           ~/.cache/go-build
+  #           ~/go/pkg/mod
+  #         key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}
+  #         restore-keys: |
+  #           ${{ runner.os }}-go-
 
-      - name: install octlango
-        run: |
-          go install github.com/korosuke613/octlango@latest
-          octlango -v
+  #     - name: install octlango
+  #       run: |
+  #         go install github.com/korosuke613/octlango@latest
+  #         octlango -v
 
-      - name: exec octlango
-        env:
-          OCTLANGO_GH_TOKEN: ${{ secrets.OCTLANGO_GH_TOKEN }}
-        run: |
-          octlango -u korosuke613 -f markdown | head -12 > replace.txt
-          cat replace.txt
+  #     - name: exec octlango
+  #       env:
+  #         OCTLANGO_GH_TOKEN: ${{ secrets.OCTLANGO_GH_TOKEN }}
+  #       run: |
+  #         octlango -u korosuke613 -f markdown | head -12 > replace.txt
+  #         cat replace.txt
 
-      - uses: denoland/setup-deno@v1
-        with:
-          deno-version: v1.x
+  #     - uses: denoland/setup-deno@v1
+  #       with:
+  #         deno-version: v1.x
 
-      - name: replace generated most used languages
-        run: deno run --allow-read --allow-write update-used-languages.ts
+  #     - name: replace generated most used languages
+  #       run: deno run --allow-read --allow-write update-used-languages.ts
 
-      - name: commit changes
-        run: |
-          git status --porcelain
-          [[ -z $(git status --porcelain) ]] && exit 0; true
-          export NOW_DATE_TIME=$(date '+%Y-%m-%dT%H:%M:%S%z')
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+  #     - name: commit changes
+  #       run: |
+  #         git status --porcelain
+  #         [[ -z $(git status --porcelain) ]] && exit 0; true
+  #         export NOW_DATE_TIME=$(date '+%Y-%m-%dT%H:%M:%S%z')
+  #         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+  #         git config --local user.name "github-actions[bot]"
 
-          git add README.md
-          git commit -m "Updated most used languages ($NOW_DATE_TIME)"
-          git pull
-          git push origin main
+  #         git add README.md
+  #         git commit -m "Updated most used languages ($NOW_DATE_TIME)"
+  #         git pull
+  #         git push origin main

@@ -78,16 +78,16 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korosuke613&count_private=true&langs_count=10&layout=compact&hide=TeX,JavaScript,HTML,CSS,CMake,C%23,C,Makefile&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)  
 
-<p><img src="http://github-readme-streak-stats.herokuapp.com?user=korosuke613&theme=solarized-dark&fire=AD8A2D&sideNums=AD8A2D" alt="korosuke613" /></p>
+<p><img src="http://github-readme-streak-stats.herokuapp.com?user=korosuke613&theme=solarized-darok&fire=AD8A2D&sideNums=AD8A2D" alt="korosuke613" /></p>
 
 </div>
 -->
 
-<h4>Top 10 most used languages in the past year</h4>
-using <a href="https://github.com/korosuke613/octlango" target="_blank" rel="noopener">korosuke613/octlango</a>
+<!-- <h4>Top 10 most used languages in the past year</h4>
+using <a href="https://github.com/korosuke613/octlango" target="_blank" rel="noopener">korosuke613/octlango</a> -->
 
 <!-- MOST_USED_LANGUAGES:START -->
-|language|percentage(%)|size(byte)|
+<!-- |language|percentage(%)|size(byte)|
 |---|---|---|
 |TypeScript|96.14|52352239|
 |TeX|1.55|842834|
@@ -98,5 +98,5 @@ using <a href="https://github.com/korosuke613/octlango" target="_blank" rel="noo
 |JavaScript|0.17|90063|
 |HTML|0.15|83119|
 |Shell|0.14|75641|
-|Go|0.13|71502|
+|Go|0.13|71502| -->
 <!-- MOST_USED_LANGUAGES:END -->
