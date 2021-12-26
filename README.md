@@ -40,10 +40,10 @@ CI/CD, IaC, Public Cloud, Testing...👷🏽
 <h4>Zenn</h4>
 
 <!-- ZENN-POST-LIST:START -->
+- [Productivity Weekly &lpar;2021-12-22号&rpar;](https://zenn.dev/korosuke613/articles/productivity-weekly-20211222)
 - [Productivity Weekly &lpar;2021-12-15号&rpar;](https://zenn.dev/korosuke613/articles/productivity-weekly-20211215)
 - [Productivity Weekly &lpar;2021-12-08号&rpar;](https://zenn.dev/korosuke613/articles/productivity-weekly-20211208)
 - [Productivity Weekly &lpar;2021-12-01号&rpar;](https://zenn.dev/korosuke613/articles/productivity-weekly-20211201)
-- [Productivity Weekly 記事 1 周年 🎉 〜続けてみてのアレコレ〜](https://zenn.dev/korosuke613/articles/productivity-weekly-1st-aniversary)
 <!-- ZENN-POST-LIST:END -->
 
 
