@@ -31,10 +31,10 @@ CI/CD, IaC, Public Cloud, Testing...👷🏽
 <h4>Hatena Blog</h4>
 
 <!-- HATENA-POST-LIST:START -->
+- [2021 年の社外活動まとめ by korosuke613](https://korosuke613.hatenablog.com/entry/activity-2021?utm_source=feed)
 - [GitHub Actionsの歴史（2021/12/1 更新）](https://korosuke613.hatenablog.com/entry/history-of-github-actions?utm_source=feed)
 - [Docker Desktop 無しで Docker を使う with lima on Mac](https://korosuke613.hatenablog.com/entry/2021/09/18/docker-on-lima?utm_source=feed)
 - [dotfiles の更新忘れを防いで継続的に管理していく 🔧 💪](https://korosuke613.hatenablog.com/entry/2021/05/23/mydotfiles?utm_source=feed)
-- [npm pack時にsrc下の__tests__を無視したい（2021/02/08更新）](https://korosuke613.hatenablog.com/entry/2021/02/08/npm_pack_ignore_tests?utm_source=feed)
 <!-- HATENA-POST-LIST:END -->
 
 <h4>Zenn</h4>
