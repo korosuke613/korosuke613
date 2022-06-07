@@ -25,6 +25,46 @@ CI/CD, IaC, Public Cloud, Testing...👷🏽
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&amp;logo=instagram&amp;logoColor=white">
 </a><img src="https://komarev.com/ghpvc/?username=korosuke613&label=Profile%20views&color=0e75b6&style=flat" alt="korosuke613" /> </p>
 
+<!-- アイコンはここから　https://simpleicons.org -->
+<h3>Languages and Tools</h3>
+<h4>In work</h4>
+
+![ TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&style=flat&logo=typescript&logoColor=white) 
+![ Go](https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&style=flat&logo=go&logoColor=white)
+![ Jest](https://img.shields.io/static/v1?label=&message=Jest&color=C21325&style=flat&logo=jest&logoColor=white)
+![ React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&style=flat&logo=React&logoColor=black)
+![ Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&style=flat&logo=linux&logoColor=black)
+![ Git](https://img.shields.io/static/v1?label=&message=Git&color=F05032&style=flat&logo=git&logoColor=white) 
+![ JetBrains IDE](https://img.shields.io/static/v1?label=&message=JetBrains%20IDE&color=000000&style=flat&logo=JetBrains&logoColor=white) 
+![ Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&style=flat&logo=docker&logoColor=white) 
+![ Kubernetes](https://img.shields.io/static/v1?label=&message=Kubernetes&color=326CE5&style=flat&logo=kubernetes&logoColor=white)
+![ Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&style=flat&logo=node.js&logoColor=white) 
+![ Terraform](https://img.shields.io/static/v1?label=&message=Terraform&color=623CE4&style=flat&logo=terraform&logoColor=white)
+![ Packer](https://img.shields.io/static/v1?label=&message=Packer&color=02A8EF&style=flat&logo=Packer&logoColor=white)
+![ Serverless](https://img.shields.io/static/v1?label=&message=Serverless&color=FD5750&style=flat&logo=serverless&logoColor=white)
+![ AWS](https://img.shields.io/static/v1?label=&message=AWS&color=232F3E&style=flat&logo=Amazon%20AWS) 
+![ GCP](https://img.shields.io/static/v1?label=&message=GCP&color=4285F4&style=flat&logo=google-cloud&logoColor=white) 
+![ Datadog](https://img.shields.io/static/v1?label=&message=Datadog&color=632CA6&style=flat&logo=Datadog&logoColor=white) 
+![ Renovate](https://img.shields.io/static/v1?label=&message=Renovate&color=1A1F6C&style=flat&logo=RenovateBot&logoColor=white) 
+![ Linear](https://img.shields.io/static/v1?label=&message=Linear&color=5E6AD2&style=flat&logo=Linear&logoColor=white) 
+![ GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=181717&style=flat&logo=github&logoColor=white)
+![ GitHub Actions](https://img.shields.io/static/v1?label=&message=GitHub%20Actions&color=2088FF&style=flat&logo=github%20actions&logoColor=white) 
+![ CircleCI](https://img.shields.io/static/v1?label=&message=CircleCI&color=343434&style=flat&logo=circleci) 
+![ Travis CI](https://img.shields.io/static/v1?label=&message=Travis%20CI&color=3EAAAF&style=flat&logo=travis-ci&logoColor=white) 
+![ Jenkins](https://img.shields.io/static/v1?label=&message=Jenkins&color=D24939&style=flat&logo=jenkins&logoColor=white) 
+
+<h4>Only hobby</h4>
+
+![ CPP](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&style=flat&logo=c%2B%2B)
+![ Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=0095D5&style=flat&logo=kotlin&logoColor=white) 
+![ Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&style=flat&logo=python&logoColor=white)
+![ Perl](https://img.shields.io/static/v1?label=&message=Perl&color=39457E&style=flat&logo=perl&logoColor=white)
+![ Flask](https://img.shields.io/static/v1?label=&message=Flask&color=000000&style=flat&logo=flask&logoColor=white)
+![ Vue.js](https://img.shields.io/static/v1?label=&message=Vue.js&color=4FC08D&style=flat&logo=vue.js&logoColor=white)
+![ Nuxt.js](https://img.shields.io/static/v1?label=&message=Nuxt.js&color=00C58E&style=flat&logo=nuxt.js&logoColor=white) 
+![ Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=FFCA28&style=flat&logo=firebase&logoColor=black) 
+![ Heroku](https://img.shields.io/static/v1?label=&message=Heroku&color=430098&style=flat&logo=heroku&logoColor=white) 
+
 
 <h3>Blogs posts</h3>
 
@@ -45,60 +85,3 @@ CI/CD, IaC, Public Cloud, Testing...👷🏽
 - [Productivity Weekly &lpar;2022-05-11号&rpar;](https://zenn.dev/korosuke613/articles/productivity-weekly-20220511)
 - [Productivity Weekly &lpar;2022-04-27号&rpar;](https://zenn.dev/korosuke613/articles/productivity-weekly-20220427)
 <!-- ZENN-POST-LIST:END -->
-
-
-<h3>Languages and Tools</h3>
-
-![ CPP](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&style=flat&logo=c%2B%2B)
-![ Go](https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&style=flat&logo=go&logoColor=white)
-![ Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=0095D5&style=flat&logo=kotlin&logoColor=white) 
-![ Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&style=flat&logo=python&logoColor=white)
-![ TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&style=flat&logo=typescript&logoColor=white) 
-![ Perl](https://img.shields.io/static/v1?label=&message=Perl&color=39457E&style=flat&logo=perl&logoColor=white)
-![ Jest](https://img.shields.io/static/v1?label=&message=Jest&color=C21325&style=flat&logo=jest&logoColor=white)
-![ Flask](https://img.shields.io/static/v1?label=&message=Flask&color=000000&style=flat&logo=flask&logoColor=white)
-![ Vue.js](https://img.shields.io/static/v1?label=&message=Vue.js&color=4FC08D&style=flat&logo=vue.js&logoColor=white)
-![ Nuxt.js](https://img.shields.io/static/v1?label=&message=Nuxt.js&color=00C58E&style=flat&logo=nuxt.js&logoColor=white) 
-![ Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&style=flat&logo=linux&logoColor=black)
-![ Git](https://img.shields.io/static/v1?label=&message=Git&color=F05032&style=flat&logo=git&logoColor=white) 
-![ Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&style=flat&logo=docker&logoColor=white) 
-![ Kubernetes](https://img.shields.io/static/v1?label=&message=Kubernetes&color=326CE5&style=flat&logo=kubernetes&logoColor=white)
-![ Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&style=flat&logo=node.js&logoColor=white) 
-![ Terraform](https://img.shields.io/static/v1?label=&message=Terraform&color=623CE4&style=flat&logo=terraform&logoColor=white)
-![ AWS](https://img.shields.io/static/v1?label=&message=AWS&color=232F3E&style=flat&logo=Amazon%20AWS) 
-![ GCP](https://img.shields.io/static/v1?label=&message=GCP&color=4285F4&style=flat&logo=google-cloud&logoColor=white) 
-![ Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=FFCA28&style=flat&logo=firebase&logoColor=black) 
-![ Heroku](https://img.shields.io/static/v1?label=&message=Heroku&color=430098&style=flat&logo=heroku&logoColor=white) 
-![ GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=181717&style=flat&logo=github&logoColor=white)
-![ GitHub Actions](https://img.shields.io/static/v1?label=&message=GitHub%20Actions&color=2088FF&style=flat&logo=github%20actions&logoColor=white) 
-![ CircleCI](https://img.shields.io/static/v1?label=&message=CircleCI&color=343434&style=flat&logo=circleci) 
-![ Travis CI](https://img.shields.io/static/v1?label=&message=Travis%20CI&color=3EAAAF&style=flat&logo=travis-ci&logoColor=white) 
-![ Jenkins](https://img.shields.io/static/v1?label=&message=Jenkins&color=D24939&style=flat&logo=jenkins&logoColor=white) 
-
-<!--
-<div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korosuke613&count_private=true&langs_count=10&layout=compact&hide=TeX,JavaScript,HTML,CSS,CMake,C%23,C,Makefile&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)  
-
-<p><img src="http://github-readme-streak-stats.herokuapp.com?user=korosuke613&theme=solarized-darok&fire=AD8A2D&sideNums=AD8A2D" alt="korosuke613" /></p>
-
-</div>
--->
-
-<!-- <h4>Top 10 most used languages in the past year</h4>
-using <a href="https://github.com/korosuke613/octlango" target="_blank" rel="noopener">korosuke613/octlango</a> -->
-
-<!-- MOST_USED_LANGUAGES:START -->
-<!-- |language|percentage(%)|size(byte)|
-|---|---|---|
-|TypeScript|96.14|52352239|
-|TeX|1.55|842834|
-|Swift|0.53|289907|
-|Lua|0.35|192234|
-|Java|0.30|160751|
-|HCL|0.24|130111|
-|JavaScript|0.17|90063|
-|HTML|0.15|83119|
-|Shell|0.14|75641|
-|Go|0.13|71502| -->
-<!-- MOST_USED_LANGUAGES:END -->
