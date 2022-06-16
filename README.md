@@ -81,8 +81,8 @@ CI/CD, IaC, Public Cloud, Testing...👷🏽
 <h4>Zenn</h4>
 
 <!-- ZENN-POST-LIST:START -->
+- [Productivity Weekly &lpar;2022-06-08号&rpar; 簡易版](https://zenn.dev/korosuke613/articles/productivity-weekly-20220608)
 - [Productivity Weekly &lpar;2022-06-01号&rpar;](https://zenn.dev/korosuke613/articles/productivity-weekly-20220601)
 - [Productivity Weekly &lpar;2022-05-25号&rpar;](https://zenn.dev/korosuke613/articles/productivity-weekly-20220525)
 - [Productivity Weekly &lpar;2022-05-18号&rpar;](https://zenn.dev/korosuke613/articles/productivity-weekly-20220518)
-- [Productivity Weekly &lpar;2022-05-11号&rpar;](https://zenn.dev/korosuke613/articles/productivity-weekly-20220511)
 <!-- ZENN-POST-LIST:END -->
