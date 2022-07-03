@@ -32,6 +32,7 @@ CI/CD, IaC, Public Cloud, Testing...👷🏽
 [![ TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![ Go](https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&style=flat&logo=go&logoColor=white)](https://go.dev/)
 [![ Jest](https://img.shields.io/static/v1?label=&message=Jest&color=C21325&style=flat&logo=jest&logoColor=white)](https://jestjs.io/)
+[![ Playwright](https://img.shields.io/static/v1?label=&message=Playwright&color=2EAD33&style=flat&logo=Playwright&logoColor=white)](https://playwright.dev/)
 [![ React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&style=flat&logo=React&logoColor=black)](https://reactjs.org/)
 ![ Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&style=flat&logo=linux&logoColor=black)
 [![ Git](https://img.shields.io/static/v1?label=&message=Git&color=F05032&style=flat&logo=git&logoColor=white)](https://git-scm.com/)
