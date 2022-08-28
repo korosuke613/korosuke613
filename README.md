@@ -63,9 +63,14 @@ CI/CD, IaC, Public Cloud, Testing...👷🏽
 [![ Flask](https://img.shields.io/static/v1?label=&message=Flask&color=000000&style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![ Vue.js](https://img.shields.io/static/v1?label=&message=Vue.js&color=4FC08D&style=flat&logo=vue.js&logoColor=white)](https://vuejs.org/index.html)
 [![ Nuxt.js](https://img.shields.io/static/v1?label=&message=Nuxt.js&color=00C58E&style=flat&logo=nuxt.js&logoColor=white)](https://nuxtjs.org) 
+[![ Astro](https://img.shields.io/static/v1?label=&message=Astro&color=FF5D01&style=flat&logo=astro&logoColor=white)](https://astro.build/) 
+[![ TailWind CSS](https://img.shields.io/static/v1?label=&message=TailWind%20CSS&color=06B6D4&style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/) 
+[![ Algolia](https://img.shields.io/static/v1?label=&message=Algolia&color=5468FF&style=flat&logo=algolia&logoColor=white)](https://www.algolia.com/) 
 [![ Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=FFCA28&style=flat&logo=firebase&logoColor=black)](https://firebase.google.com/) 
 [![ Heroku](https://img.shields.io/static/v1?label=&message=Heroku&color=430098&style=flat&logo=heroku&logoColor=white)](https://www.heroku.com/home) 
 [![ Travis CI](https://img.shields.io/static/v1?label=&message=Travis%20CI&color=3EAAAF&style=flat&logo=travis-ci&logoColor=white)](https://travis-ci.org/) 
+[![ Miro](https://img.shields.io/static/v1?label=&message=Miro&color=050038&style=flat&logo=miro&logoColor=white)](https://miro.com/) 
+
 
 
 <h3>Blogs posts</h3>
