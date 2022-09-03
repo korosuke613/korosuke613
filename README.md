@@ -92,3 +92,5 @@ CI/CD, IaC, Public Cloud, Testing...👷🏽
 - [Productivity Weekly &lpar;2022-07-27号&rpar; 簡易版](https://zenn.dev/korosuke613/articles/productivity-weekly-20220727)
 - [Productivity Weekly &lpar;2022-07-20号&rpar;](https://zenn.dev/korosuke613/articles/productivity-weekly-20220720)
 <!-- ZENN-POST-LIST:END -->
+
+![](https://hit.yhype.me/github/profile?user_id=20027695)
