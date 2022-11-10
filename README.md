@@ -87,10 +87,10 @@ CI/CD, IaC, Public Cloud, Testing...👷🏽
 <h4>Zenn</h4>
 
 <!-- ZENN-POST-LIST:START -->
+- [Productivity Weekly &lpar;2022-10-26号&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20221026)
 - [Productivity Weekly &lpar;2022-10-19号&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20221019)
 - [Productivity Weekly &lpar;2022-10-12号&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20221012)
 - [Productivity Weekly &lpar;2022-10-05号&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20221005)
-- [Productivity Weekly &lpar;2022-09-28号&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20220928)
 <!-- ZENN-POST-LIST:END -->
 
 ![](https://hit.yhype.me/github/profile?user_id=20027695)
