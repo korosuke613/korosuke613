@@ -3,7 +3,7 @@
 
 CI/CD, IaC, Public Cloud, Testing...👷🏽
 
-<a href="https://korosuke613.github.io" target="_blank" rel="noopener">
+<a href="https://korosuke613.dev" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/-Homepage-134343?style=flat&amp">
 </a>
 <a href="https://korosuke613.hatenablog.com" target="_blank" rel="noopener">
