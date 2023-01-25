@@ -87,10 +87,10 @@ CI/CD, IaC, Public Cloud, Testing...👷🏽
 <h4>Zenn</h4>
 
 <!-- ZENN-POST-LIST:START -->
+- [Productivity Weekly &lpar;2023-01-11号&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20230111)
 - [Productivity Weekly &lpar;2022-12-21号&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20221221)
 - [Productivity Weekly &lpar;2022-12-14号&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20221214)
 - [Productivity Weekly &lpar;2022-12-07号&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20221207)
-- [Renovate config の変更が想定通りか確認する 〜真の dry-run を求めて〜](https://zenn.dev/cybozu_ept/articles/compare-renovate-dry-run)
 <!-- ZENN-POST-LIST:END -->
 
 ![](https://hit.yhype.me/github/profile?user_id=20027695)
