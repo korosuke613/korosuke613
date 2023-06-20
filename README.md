@@ -87,10 +87,10 @@ CI/CD, IaC, Public Cloud, Testing...👷🏽
 <h4>Zenn</h4>
 
 <!-- ZENN-POST-LIST:START -->
+- [Productivity Weekly &lpar;2023-06-07号&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20230607)
 - [VSCode の Jest 拡張機能が asdf で管理している Node.js を呼び出せない問題](https://zenn.dev/korosuke613/articles/vscode-jest-extension-with-asdf)
 - [Productivity Weekly &lpar;2023-05-31号, 2023-05-24号&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20230531)
 - [Productivity Weekly &lpar;2023-05-17号&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20230517)
-- [Productivity Weekly &lpar;2023-05-10号&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20230510)
 <!-- ZENN-POST-LIST:END -->
 
 ![](https://hit.yhype.me/github/profile?user_id=20027695)
