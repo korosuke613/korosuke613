@@ -31,10 +31,12 @@ CI/CD, IaC, Public Cloud, Testing...👷🏽
 
 [![ TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![ Go](https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&style=flat&logo=go&logoColor=white)](https://go.dev/)
+[![ Java](https://img.shields.io/static/v1?label=&message=Java&color=437291&style=flat&logo=OpenJDK&logoColor=white)](https://www.oracle.com/java/)
 [![ Jest](https://img.shields.io/static/v1?label=&message=Jest&color=C21325&style=flat&logo=jest&logoColor=white)](https://jestjs.io/)
 [![ Playwright](https://img.shields.io/static/v1?label=&message=Playwright&color=2EAD33&style=flat&logo=Playwright&logoColor=white)](https://playwright.dev/)
 [![ React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&style=flat&logo=React&logoColor=black)](https://reactjs.org/)
-![ Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&style=flat&logo=linux&logoColor=black)
+[![ Spring](https://img.shields.io/static/v1?label=&message=Spring&color=6DB33F&style=flat&logo=Spring&logoColor=white)](https://spring.io/)
+[![ Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&style=flat&logo=linux&logoColor=black)](https://kernel.org/)
 [![ Git](https://img.shields.io/static/v1?label=&message=Git&color=F05032&style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![ JetBrains IDE](https://img.shields.io/static/v1?label=&message=JetBrains%20IDE&color=000000&style=flat&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/) 
 [![ Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&style=flat&logo=docker&logoColor=white)](https://www.docker.com/) 
