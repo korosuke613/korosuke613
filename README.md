@@ -89,10 +89,10 @@ CI/CD, IaC, Public Cloud, Testing...👷🏽
 <h4>Zenn</h4>
 
 <!-- ZENN-POST-LIST:START -->
+- [ActionsでArm、GPUランナーが使えるようになるよ：Productivity Weekly &lpar;2023-11-01号&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20231101)
 - [pull_request_targetでのActions改ざん防止など:Productivity Weekly &lpar;2023-10-25号&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20231025)
 - [ハッシュ値を利用したCIの高速化など：Productivity Weekly &lpar;2023-10-18号&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20231018)
 - [State of DevOps 2023レポートが公開！日本語版はまだ：Productivity Weekly &lpar;2023-10-11号&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20231011)
-- [Productivity Weekly &lpar;2023-10-04号&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20231004)
 <!-- ZENN-POST-LIST:END -->
 
 ![](https://hit.yhype.me/github/profile?user_id=20027695)
