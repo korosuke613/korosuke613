@@ -94,10 +94,10 @@ CI/CD, IaC, Public Cloud, Testing...👷🏽
 <h4>Zenn</h4>
 
 <!-- ZENN-POST-LIST:START -->
+- [actions/artifacts@v4アツい、CIの話題多め、おまけあり｜Productivity Weekly&lpar;2023-12-20号&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20231220)
 - [GitHubの新しいリポジトリ一覧、Testcontainers紹介など：Productivity Weekly &lpar;2023-12-13号&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20231213)
 - [Deno cronやOpenTofu、CI高速化など｜Productivity Weekly &lpar;2023-12-06号&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20231206)
 - [GitHub Actions のキャッシュを使った VRT のすゝめ](https://zenn.dev/cybozu_ept/articles/practice-vrt-using-github-actions-cache)
-- [ECRのプルスルーキャッシュ強化。LambdaがNode.js v20対応｜Productivity Weekly&lpar;2023-11-22号&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20231122)
 <!-- ZENN-POST-LIST:END -->
 
 ![](https://hit.yhype.me/github/profile?user_id=20027695)
