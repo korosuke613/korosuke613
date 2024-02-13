@@ -94,10 +94,10 @@ CI/CD, IaC, Public Cloud, Testing...👷🏽
 <h4>Zenn</h4>
 
 <!-- ZENN-POST-LIST:START -->
+- [公開repoでのActionsスペック増強、tfのテストにモックが追加など｜Productivity Weekly&lpar;2024-01-24号&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20240124)
 - [OpenTofu正式リリース！GCPやレガシーコード改善も｜Productivity Weekly &lpar;2024-01-17号&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20240117)
 - [GitHub CertificationやらCIやらasdf互換ツールやら｜Productivity Weekly&lpar;2024-01-10号&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20240110)
 - [actions/artifacts@v4アツい、CIの話題多め、おまけあり｜Productivity Weekly&lpar;2023-12-20号&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20231220)
-- [GitHubの新しいリポジトリ一覧、Testcontainers紹介など：Productivity Weekly &lpar;2023-12-13号&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20231213)
 <!-- ZENN-POST-LIST:END -->
 
 ![](https://hit.yhype.me/github/profile?user_id=20027695)
