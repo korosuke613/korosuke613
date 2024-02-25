@@ -94,10 +94,10 @@ CI/CD, IaC, Public Cloud, Testing...👷🏽
 <h4>Zenn</h4>
 
 <!-- ZENN-POST-LIST:START -->
+- [Copilot in GitHub SupportがGA！GitHubの仕様に関するわからないことをすばやく解決できやすくなったよ](https://zenn.dev/korosuke613/articles/copilot-in-github-support)
 - [ActionsでM1 Macが無料で使えるように。DockerやGoの話も｜Productivity Weekly&lpar;2024-01-31号&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20240131)
 - [公開repoでのActionsスペック増強、tfのテストにモックが追加など｜Productivity Weekly&lpar;2024-01-24号&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20240124)
 - [OpenTofu正式リリース！GCPやレガシーコード改善も｜Productivity Weekly &lpar;2024-01-17号&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20240117)
-- [GitHub CertificationやらCIやらasdf互換ツールやら｜Productivity Weekly&lpar;2024-01-10号&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20240110)
 <!-- ZENN-POST-LIST:END -->
 
 ![](https://hit.yhype.me/github/profile?user_id=20027695)
