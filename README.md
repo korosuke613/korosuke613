@@ -94,10 +94,10 @@ CI/CD, IaC, Public Cloud, Testing...👷🏽
 <h4>Zenn</h4>
 
 <!-- ZENN-POST-LIST:START -->
+- [compose watchがフロントエンド開発に便利そう、他に改善話など｜Productivity Weekly&lpar;2024-02-21号&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20240221)
 - [旧artifact actions廃止告知、マージキューやデプロイ頻度の話等｜Productivity Weekly&lpar;2024-02-14&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20240214)
 - [Copilot in GitHub SupportがGA！GitHubの仕様に関するわからないことをすばやく解決できやすくなったよ](https://zenn.dev/korosuke613/articles/copilot-in-github-support)
 - [ActionsでM1 Macが無料で使えるように。DockerやGoの話も｜Productivity Weekly&lpar;2024-01-31号&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20240131)
-- [公開repoでのActionsスペック増強、tfのテストにモックが追加など｜Productivity Weekly&lpar;2024-01-24号&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20240124)
 <!-- ZENN-POST-LIST:END -->
 
 ![](https://hit.yhype.me/github/profile?user_id=20027695)
