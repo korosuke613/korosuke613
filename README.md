@@ -94,10 +94,10 @@ CI/CD, IaC, Public Cloud, Testing...👷🏽
 <h4>Zenn</h4>
 
 <!-- ZENN-POST-LIST:START -->
+- [AWSのSavings Planが期間限定で返金できるようになど｜Productivity Weekly&lpar;2024-03-27&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20240327)
 - [GHES 3.12でマージキューが使えるようになる話など｜Productivity Weekly&lpar;2024-03-13&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20240313)
 - [CI/CDノウハウやAWSコスト削減など｜Productivity Weekly&lpar;2024-03-06&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20240306)
 - [GitHub Copilot Enterprise GA 🎉 など｜Productivity Weekly&lpar;2024-02-28&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20240228)
-- [compose watchがフロントエンド開発に便利そう、他に改善話など｜Productivity Weekly&lpar;2024-02-21号&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20240221)
 <!-- ZENN-POST-LIST:END -->
 
 ![](https://hit.yhype.me/github/profile?user_id=20027695)
