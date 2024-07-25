@@ -94,10 +94,10 @@ CI/CD, IaC, Public Cloud, Testing...👷🏽
 <h4>Zenn</h4>
 
 <!-- ZENN-POST-LIST:START -->
+- [GitHub Projectsのwebhookの対応イベントが増えたなど｜Productivity Weekly&lpar;2024-07-10&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20240710)
 - [attestationsやfeature flagの話など｜Productivity Weekly&lpar;2024-06-26&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20240626)
 - [GitHubのカスタムプロパティのアプデの話など｜Productivity Weekly&lpar;2024-06-19&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20240619)
 - [VSCode Chat Extensionやセキュリティ話など｜Productivity Weekly&lpar;2024-06-12&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20240612)
-- [ActionsのArm64ランナーがパブリックベータに。LFS料金体系変更｜Productivity Weekly&lpar;2024-06-05&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20240605)
 <!-- ZENN-POST-LIST:END -->
 
 ![](https://hit.yhype.me/github/profile?user_id=20027695)
