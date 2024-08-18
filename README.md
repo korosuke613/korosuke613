@@ -94,10 +94,10 @@ CI/CD, IaC, Public Cloud, Testing...👷🏽
 <h4>Zenn</h4>
 
 <!-- ZENN-POST-LIST:START -->
+- [setup-javaで取ってくるJDKをキャッシュしてセルフホストランナーの転送量を節約する](https://zenn.dev/cybozu_ept/articles/cache-corretto-on-self-hosted-gha)
 - [LLMを用いてブログ記事の文法間違い・誤字脱字検出を自動化する](https://zenn.dev/cybozu_ept/articles/ai-blog-review-on-github)
 - [OSSのメンテを楽にする話やペアプロの話など｜Productivity Weekly&lpar;2024-07-24&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20240724)
 - [開発生産性系の話多し｜Productivity Weekly&lpar;2024-07-17&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20240717)
-- [GitHub Projectsのwebhookの対応イベントが増えたなど｜Productivity Weekly&lpar;2024-07-10&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20240710)
 <!-- ZENN-POST-LIST:END -->
 
 ![](https://hit.yhype.me/github/profile?user_id=20027695)
