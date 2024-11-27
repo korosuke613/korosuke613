@@ -94,10 +94,10 @@ CI/CD, IaC, Public Cloud, Testing...👷🏽
 <h4>Zenn</h4>
 
 <!-- ZENN-POST-LIST:START -->
+- [GitHub Universe 2024、API insightsなど｜Productivity Weekly&lpar;2024-10-30&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20241030)
 - [EnterpriseレベルGitHub Appが作れるようになったぞ！｜Productivity Weekly&lpar;2024-10-23,16&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20241023)
 - [GitHub.com上でのCopilotがエンプラ以外に開放（beta）など｜Productivity Weekly&lpar;2024-10-09&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20241009)
 - [Docker Subscription値上げなど｜Productivity Weekly&lpar;2024-09-25,18&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20240925)
-- [TypeScript 5.6やGitHubの細かいorgロールなど｜Productivity Weekly&lpar;2024-09-11, 04&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20240911)
 <!-- ZENN-POST-LIST:END -->
 
 ![](https://hit.yhype.me/github/profile?user_id=20027695)
