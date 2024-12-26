@@ -94,10 +94,10 @@ CI/CD, IaC, Public Cloud, Testing...👷🏽
 <h4>Zenn</h4>
 
 <!-- ZENN-POST-LIST:START -->
+- [Deno 2.1やimmutableなactionなど｜Productivity Weekly&lpar;2024-12-04, 11-27&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20241204)
 - [AWSの統制系アプデぞくぞく｜Productivity Weekly&lpar;2024-11-20&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20241120)
 - [Copilot Individualを制限してシャドーIT撲滅など｜Productivity Weekly&lpar;2024-11-13, 06&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20241113)
 - [GitHub Universe 2024、API insightsなど｜Productivity Weekly&lpar;2024-10-30&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20241030)
-- [EnterpriseレベルGitHub Appが作れるようになったぞ！｜Productivity Weekly&lpar;2024-10-23,16&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20241023)
 <!-- ZENN-POST-LIST:END -->
 
 ![](https://hit.yhype.me/github/profile?user_id=20027695)
