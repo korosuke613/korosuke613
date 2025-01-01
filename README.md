@@ -94,10 +94,10 @@ CI/CD, IaC, Public Cloud, Testing...👷🏽
 <h4>Zenn</h4>
 
 <!-- ZENN-POST-LIST:START -->
+- [GitHub Copilot無料版登場！Chat in GitHubはGA！｜Productivity Weekly&lpar;2024-12-25&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20241225)
+- [CodeQLの対象にActions追加、bun.lock登場など｜Productivity Weekly&lpar;2024-12-18&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20241218)
 - [Actionsの破壊的変更予告やGitHubのガバナンス強化など｜Productivity Weekly&lpar;2024-12-11&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20241211)
 - [Deno 2.1やimmutableなactionなど｜Productivity Weekly&lpar;2024-12-04, 11-27&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20241204)
-- [AWSの統制系アプデぞくぞく｜Productivity Weekly&lpar;2024-11-20&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20241120)
-- [Copilot Individualを制限してシャドーIT撲滅など｜Productivity Weekly&lpar;2024-11-13, 06&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20241113)
 <!-- ZENN-POST-LIST:END -->
 
 ![](https://hit.yhype.me/github/profile?user_id=20027695)
