@@ -85,10 +85,10 @@ CI/CD, IaC, Public Cloud, Testing...👷🏽
 <h4>Hatena Blog</h4>
 
 <!-- HATENA-POST-LIST:START -->
+- [Don&#39;t leave 2024](https://korosuke613.hatenablog.com/entry/2025/01/03/dont-leave-2024?utm_source=feed)
 - [2023 よ Good Night...](https://korosuke613.hatenablog.com/entry/2023/12/31/sayonara-2023?utm_source=feed)
 - [2023に駆ける](https://korosuke613.hatenablog.com/entry/2023/01/03/hofu-2023?utm_source=feed)
 - [2021 年の社外活動まとめ by korosuke613](https://korosuke613.hatenablog.com/entry/activity-2021?utm_source=feed)
-- [GitHub Actionsの歴史（2021/12/1 更新）](https://korosuke613.hatenablog.com/entry/history-of-github-actions?utm_source=feed)
 <!-- HATENA-POST-LIST:END -->
 
 <h4>Zenn</h4>
