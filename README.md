@@ -94,10 +94,10 @@ CI/CD, IaC, Public Cloud, Testing...👷🏽
 <h4>Zenn</h4>
 
 <!-- ZENN-POST-LIST:START -->
+- [public repoでも通常armランナーが利用可能に｜Productivity Weekly&lpar;2025-01-22&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20250122)
 - [Node.jsでTypeScriptをネイティブ実行可能に｜Productivity Weekly&lpar;2025-01-15&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20250115)
 - [actions、go、aiの話などなど..｜Productivity Weekly&lpar;2025-01-08&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20250108)
 - [GitHub Copilot無料版登場！Chat in GitHubはGA！｜Productivity Weekly&lpar;2024-12-25&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20241225)
-- [CodeQLの対象にActions追加、bun.lock登場など｜Productivity Weekly&lpar;2024-12-18&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20241218)
 <!-- ZENN-POST-LIST:END -->
 
 ![](https://hit.yhype.me/github/profile?user_id=20027695)
