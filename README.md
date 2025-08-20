@@ -94,10 +94,10 @@ CI/CD, IaC, Public Cloud, Testing...👷🏽
 <h4>Zenn</h4>
 
 <!-- ZENN-POST-LIST:START -->
+- [組織で使うためのClaude Code Action via Amazon Bedrock（認証・ログ分析・クラウド破産防止）](https://zenn.dev/cybozu_ept/articles/org-use-claude-code-action)
 - [GitHub Copilot Agentモード登場など｜Productivity Weekly&lpar;2025-02-12&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20250212)
 - [TS5.8やらAmazon EventBridgeやらDenoやら｜Productivity Weekly&lpar;2025-01-29&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20250129)
 - [public repoでも通常armランナーが利用可能に｜Productivity Weekly&lpar;2025-01-22&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20250122)
-- [Node.jsでTypeScriptをネイティブ実行可能に｜Productivity Weekly&lpar;2025-01-15&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20250115)
 <!-- ZENN-POST-LIST:END -->
 
 ![](https://hit.yhype.me/github/profile?user_id=20027695)
