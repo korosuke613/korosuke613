@@ -94,10 +94,10 @@ CI/CD, IaC, Public Cloud, Testing...👷🏽
 <h4>Zenn</h4>
 
 <!-- ZENN-POST-LIST:START -->
+- [Raspberry Pi 4B を SD カード・USB ストレージ無しで運用する 〜 PXE + iSCSI ネットワークブート構築備忘録](https://zenn.dev/korosuke613/articles/raspberry-pi-pxe-iscsi-boot)
 - [GitHub Actionsのアーティファクトがzip化不要に。既存ジョブ移行のポイントとハマりどころ](https://zenn.dev/korosuke613/articles/github-actions-use-archive-artifact)
 - [GitHub Billing Usage API のすゝめ 〜 組織全体の従量課金額を分析・可視化する](https://zenn.dev/cybozu_ept/articles/github-billing-api)
 - [組織で使うためのClaude Code Action via Amazon Bedrock（認証・ログ分析・クラウド破産防止）](https://zenn.dev/cybozu_ept/articles/org-use-claude-code-action)
-- [GitHub Copilot Agentモード登場など｜Productivity Weekly&lpar;2025-02-12&rpar;](https://zenn.dev/cybozu_ept/articles/productivity-weekly-20250212)
 <!-- ZENN-POST-LIST:END -->
 
 ![](https://hit.yhype.me/github/profile?user_id=20027695)
